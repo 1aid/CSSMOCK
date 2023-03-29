@@ -1,0 +1,15 @@
+button {
+    color: white;
+    background-color: lightskyblue;
+}
+button:hover {
+    background-color: blue;
+}
+nav {
+    text-align: center;
+}
+.my-button {
+    border-radius: 5px;
+    width: 300px;
+    height: 100px;
+  }
